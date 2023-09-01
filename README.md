@@ -3,7 +3,6 @@
 <p align="center">
 <a href="https://linkedin.com/in/batuhan kaş" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="batuhan kaş" height="30" width="40" /></a>
 <a href="https://fb.com/hiktovyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hiktovyu" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/hiktovyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="hiktovyu" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/batuhannkas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="batuhannkas" height="30" width="40" /></a>
 </p>
 
