@@ -18,7 +18,6 @@
 ###
 
 <style>
-  /* Dış div'i tam ekran yapar */
   .center-container {
     display: flex;
     justify-content: center;
@@ -26,16 +25,14 @@
     height: 5vh;
   }
 
-  /* İç içe geçmiş logoları yatayda hizalar */
   .logo-container {
     display: flex;
     justify-content: center;
     align-items: center;
   }
 
-  /* Logolar arasındaki boşluğu ayarlar */
   .logo-container img {
-    margin: 10px; /* İstenilen boşluğu ayarlayabilirsiniz */
+    margin: 10px;
   }
 </style>
 
