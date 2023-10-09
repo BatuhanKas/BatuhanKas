@@ -1,5 +1,5 @@
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F737&center=true&vCenter=true&width=435&lines=Hi+There.+I'm+Batuhan.;Passionate+Ecole+42+Student." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=24F737&center=true&vCenter=true&width=435&lines=Hi+There.+I'm+Batuhan.;Passionate+Ecole+42+Student." alt="Typing SVG" text-align="center"/></a>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
