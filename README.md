@@ -17,42 +17,21 @@
 
 ###
 
-<style>
-  .center-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 5vh;
-  }
-
-  .logo-container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-  }
-
-  .logo-container img {
-    margin: 10px;
-  }
-</style>
-
-<div class="center-container">
-  <div class="logo-container">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
-    <a href="https://www.adobe.com/products/InDesign.html" target="_blank" rel="noreferrer">
-      <img src="https://static-00.iconduck.com/assets.00/indesign-icon-2048x1997-kuj8mjw7.png" alt="indesign" width="40" height="40" />
-    </a>
-    <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
-    </a>
-  </div>
-</div>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="40" alt="illustrator logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
+  <a href="https://www.adobe.com/products/InDesign.html" target="_blank" rel="noreferrer">
+    <img src="https://static-00.iconduck.com/assets.00/indesign-icon-2048x1997-kuj8mjw7.png" alt="indesign" width="40" height="40" />
+  </a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
+  </a>
+</p>
 
 
 ##
