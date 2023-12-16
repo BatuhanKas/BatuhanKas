@@ -1,7 +1,7 @@
 <h3 align="left">🌙  About Me</h3>
 
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&pause=3000&color=24F737&center=true&vCenter=true&repeat=false&width=435&lines=Hi+There.+I'm+Batuhan." alt="Typing SVG" /></a></h3>
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&pause=3000&color=24F737&center=true&vCenter=true&width=435&lines=I'm+a+student+in+42Kocaeli.;Self+Taught+Student+Developer." alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&pause=3000&color=24F737&center=true&vCenter=true&width=435&lines=I'm+a+student+at+42Kocaeli.;Self+Taught+Student+Developer." alt="Typing SVG" /></a></h3>
 
 
 <div align="center">
