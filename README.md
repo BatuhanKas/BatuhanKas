@@ -34,8 +34,6 @@
 </p>
 
 
-##
-##
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BatuhanKas/BatuhanKas/output/github-contribution-grid-snake-dark.svg">
