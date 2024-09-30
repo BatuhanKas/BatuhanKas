@@ -28,7 +28,7 @@
   <a href="https://www.adobe.com/products/InDesign.html" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/indesign-icon-2048x1997-kuj8mjw7.png" alt="indesign" width="40" height="40" />
 </p>
-#
+##
 
 <!--
 <picture>
