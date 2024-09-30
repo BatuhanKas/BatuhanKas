@@ -27,12 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo" />
   <a href="https://www.adobe.com/products/InDesign.html" target="_blank" rel="noreferrer">
     <img src="https://static-00.iconduck.com/assets.00/indesign-icon-2048x1997-kuj8mjw7.png" alt="indesign" width="40" height="40" />
-  </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" />
-  </a>
 </p>
-
+#
 
 <!--
 <picture>
