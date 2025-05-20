@@ -7,15 +7,15 @@
 </h3>
 <h3 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&pause=3000&color=24F737&center=true&vCenter=true&width=435&lines=I'm+a+student+at+42Kocaeli.;Self+Taught+Student+Developer." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=DejaVu+Sans+Mono&pause=3000&color=24F737&center=true&vCenter=true&width=435&lines=I'm+a+student+at+42Kocaeli.;Self+Taught+Developer." alt="Typing SVG" />
   </a>
 </h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/senin-linkedin-adresin" target="_blank">
+  <a href="https://www.linkedin.com/in/batuhan-kaş-545689254/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
   </a>
-  <a href="mailto:senin.mailin@gmail.com" target="_blank">
+  <a href="mailto:batuhannkas@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
   </a>
 </div>
