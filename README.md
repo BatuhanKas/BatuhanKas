@@ -45,5 +45,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="GitLab" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="Vim" />
   <!-- Fastify'nin resmi bir ikonu yok, yerine genel bir JS ikonu eklenebilir -->
-  <img src="https://www.fastify.io/images/fastify-logo-gradient.svg" height="40" alt="Fastify" />
+  <img src="[https://www.fastify.io/images/fastify-logo-gradient.svg](https://raw.githubusercontent.com/fastify/graphics/main/fastify-1000px-square-01.svg)" height="40" alt="Fastify" />
 </p>
