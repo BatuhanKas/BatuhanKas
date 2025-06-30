@@ -39,7 +39,6 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
   <img src="https://vectorlogo.zone/logos/fastifyio/fastifyio-icon.svg" height="40" alt="Fastify" />
-  [![Fastify](https://upload.wikimedia.org/wikipedia/commons/<...>/Fastify_logo.svg)](https://www.fastify.io/)
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" height="40" alt="Expressjs" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="WordPress" />
