@@ -1,4 +1,4 @@
-<h3 align="left">🌙 About Me</h3>
+<h3 align="left">About Me</h3>
 
 <h3 align="center">
   <a href="https://git.io/typing-svg">
@@ -22,7 +22,7 @@
 
 ---
 
-<h3 align="left">🧠 Languages</h3>
+<h3 align="left">Languages</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB" />
 </p>
 
-<h3 align="left">🧰 Frameworks, Tools & Technologies</h3>
+<h3 align="left">Frameworks, Tools & Technologies</h3>
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Boot" />
