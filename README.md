@@ -13,10 +13,10 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/batuhankas/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="LinkedIn" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn" />
   </a>
   <a href="mailto:batuhannkas@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" alt="Gmail" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=BatuhanKas&color=blueviolet&style=for-the-badge&abbreviated=true"/>
 </div>
